@@ -1,2 +1,2 @@
 # socket
- Java socket client and server communication
+ Sample of client-server communication via socket
